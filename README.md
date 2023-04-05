@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 🎯 I am interested in **Football, F1 and video Games**
+- 🎯 I’m interested in **Football, F1 and video Games**
 
 - 📫 How to reach me **bartosz.lesniak333@gmail.com**
 
-- ⚡ Fun fact **I am pretty funny**
+- ⚡ Fun fact **I’m pretty funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
