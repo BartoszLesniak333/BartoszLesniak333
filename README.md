@@ -6,11 +6,11 @@
 <h3 align="center">Student of automation and robotics 👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-- 🧑‍🎓 I’m currently studing at the [University of AGH](https://www.agh.edu.pl/)
+- 🧑‍🎓 I study at the [AGH in Cracow](https://www.agh.edu.pl/)
 
 - 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **Football, F1 and video Games**
+- 🎯 I am interested in **Football, F1 and video Games**
 
 - 📫 How to reach me **bartosz.lesniak333@gmail.com**
 
