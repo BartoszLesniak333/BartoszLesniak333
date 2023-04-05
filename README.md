@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bartosz.lesniak333@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I am pretty funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
