@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **bartosz.lesniak333@gmail.com**
 
-- ⚡ Fun fact **I’m pretty funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bartoszlesniak3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BartoszLesniak3" height="30" width="40" /></a>
@@ -23,11 +21,23 @@
 <a href="https://instagram.com/lechu_yg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lechu_yg" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<details> 
+    <summary><h1> My project </h1></summary>
+    <p align="left"> 
+<summary><h1> microcontroller project </h1></summary>
+    <p align="left"> 
+      
+1. [**Covshield**](https://github.com/Covshield/CoVShield)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bartoszlesniak333&show_icons=true&locale=en&layout=compact" alt="bartoszlesniak333" /></p>
+2. [iLock - Inteligent Door Lock](https://github.com/iLock-Inteligent-Door-Lock)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bartoszlesniak333&show_icons=true&locale=en" alt="bartoszlesniak333" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bartoszlesniak333&" alt="bartoszlesniak333" /></p>
+<summary><h1> python project </h1></summary>
+    <p align="left">  
+      
+1. [Memory słowne](https://github.com/BartoszLesniak333/Memory-slowne)
+  </details>
+<details> 
+    <summary><h1> My achievements</h1></summary>
+    <p align="left">
+1. Title of the laureate in the "OLIMPIAD OF TECHNICAL INNOVATIONS AND INVENTIONS" for Covshield device
+</details>
