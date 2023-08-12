@@ -29,12 +29,12 @@
       
 1. [**Covshield**](https://github.com/Covshield/CoVShield)
 
-2. [iLock - Inteligent Door Lock](https://github.com/iLock-Inteligent-Door-Lock)
+2. [**iLock - Inteligent Door Lock**](https://github.com/iLock-Inteligent-Door-Lock)
 
 <summary><h1> python project </h1></summary>
     <p align="left">  
       
-1. [Memory słowne](https://github.com/BartoszLesniak333/Memory-slowne)
+1. [**Memory słowne**](https://github.com/BartoszLesniak333/Memory-slowne)
   </details>
 <details> 
     <summary><h1> My achievements</h1></summary>
