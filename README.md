@@ -7,7 +7,7 @@
 
 - 🧑‍🎓 I study at the [AGH in Cracow](https://www.agh.edu.pl/)
 
-- 🌱 I’m currently learning **Python and STM32**
+- 🌱 I’m currently learning **Python, STM32 and Autodesk Fusion**
 
 - 🎯 I’m interested in **Football, F1 and video Games**
 
@@ -32,10 +32,14 @@
     <p align="left"> 
 1. Soon :D
       
-<summary><h1> python project </h1></summary>
+<summary><h1> Python project </h1></summary>
     <p align="left">  
       
 1. [**Memory słowne**](https://github.com/BartoszLesniak333/Memory-slowne)
+
+<summary><h1> Atodesk Fusion project </h1></summary>
+    <p align="left"> 
+1. Soon :D
   </details>
 <details> 
     <summary><h1> My achievements</h1></summary>
